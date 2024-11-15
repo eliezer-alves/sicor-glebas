@@ -1,7 +1,3 @@
-Entendi melhor o propósito do projeto, considerando que ele envolve dados de propriedades vinculadas a programas de crédito rural disponibilizados pelo SICOR. Aqui está uma versão atualizada do README que reflete isso:
-
----
-
 # Filtragem e Conversão de Glebas - Crédito Rural SICOR
 
 Este projeto é uma ferramenta desenvolvida para auxiliar na identificação e visualização de propriedades vinculadas a programas de crédito rural disponibilizados pelo SICOR (Sistema de Operações de Crédito Rural) do Banco Central do Brasil. A aplicação possibilita a filtragem de glebas de propriedades rurais a partir de arquivos no formato WKT e a conversão desses dados em arquivos KML para fácil visualização no Google Earth.
